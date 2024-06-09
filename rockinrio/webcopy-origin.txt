@@ -1,0 +1,684 @@
+Uri: https://cdn.boletius.com/fonts/Averta-Bold.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\fonts\Averta-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.boletius.com/fonts/Averta-Regular.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\fonts\Averta-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.boletius.com/fonts/Averta-Semibold.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\fonts\Averta-Semibold.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Inter&display=swap
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.3
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,400italic,300italic,500,700,700italic,500italic,900,900italic
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://pay.confirmar-transacao.com/QqyLgqq8YWdgvkE
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\QqyLgqq8YWdgvkE
+Content Type: application/json
+
+Uri: https://ticketmastersbr.site/
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\index.htm
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/css/frontend-lite.min4ecf.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\frontend-lite.min4ecf.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/frontend-lite.minab82.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\frontend-lite.minab82.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/globalb14b.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\globalb14b.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/header-footer.min41fe.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\header-footer.min41fe.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/post-362f33c.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\post-362f33c.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/post-41762c8.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\post-41762c8.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/post-6d6ab.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\post-6d6ab.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/style.min41fe.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\style.min41fe.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/swiper.min94a4.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\swiper.min94a4.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/theme.min41fe.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\theme.min41fe.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/images/bannerabertura.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\images\bannerabertura.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/images/Ticketmaster-Logo-White-RGB-1024x138.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\images\Ticketmaster-Logo-White-RGB-1024x138.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/images/Ticketmaster-Logo-White-RGB-1024x138_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\images\Ticketmaster-Logo-White-RGB-1024x138_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/images/Ticketmaster-Logo-White-RGB-768x103.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\images\Ticketmaster-Logo-White-RGB-768x103.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/images/Ticketmaster-Logo-White-RGB.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\images\Ticketmaster-Logo-White-RGB.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/index.html
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\index.html
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/ingressos/
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\index.htm
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/ingressos/css/all.min.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\css\all.min.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/ingressos/css/styles.af03a3356e.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\css\styles.af03a3356e.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/ingressos/css/styles.af03a3356e_1.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\css\styles.af03a3356e_1.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/ingressos/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/ingressos/css/toastr.min_1.css
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\css\toastr.min_1.css
+Content Type: text/css
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-Black.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-Black.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-Bold.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-Light.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-Light.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-Regular.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-RegularItalic.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-RegularItalic.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/Averta-Semibold.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\Averta-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://ticketmastersbr.site/ingressos/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379516372-facebook.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379516372-facebook.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379516372-facebook_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379516372-facebook_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379600508-instagram.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379600508-instagram.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379600508-instagram_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379600508-instagram_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379625842-linkedin.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379625842-linkedin.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1643379625842-linkedin_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1643379625842-linkedin_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1664925447950-null-ticketmaster-logo-azurewithoutr.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1664925447950-null-ticketmaster-logo-azurewithoutr.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1664925447950-null-ticketmaster-logo-azurewithoutr_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1664925447950-null-ticketmaster-logo-azurewithoutr_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1669406310174-null-main-br.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1669406310174-null-main-br.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1669406540752-null-main-m.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1669406540752-null-main-m.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1669823412469-null-twitter.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1669823412469-null-twitter.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1675716664687-null-seat-icon.svg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1675716664687-null-seat-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683574125568-null-blog.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683574125568-null-blog.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683574125568-null-blog_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683574125568-null-blog_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683576712789-null-TM_Banner_LinkedIn.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683576712789-null-TM_Banner_LinkedIn.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683576726535-null-TM_Banner_Blog.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683576726535-null-TM_Banner_Blog.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683576746022-null-TM_Banner_Facebook.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683576746022-null-TM_Banner_Facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1683576764155-null-TM_Banner_Instagram.jpeg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1683576764155-null-TM_Banner_Instagram.jpeg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/1691588331940-null-l-tiktok.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1691588331940-null-l-tiktok.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1691588331940-null-l-tiktok_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1691588331940-null-l-tiktok_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/1691588419752-null-tiktok.jpeg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\1691588419752-null-tiktok.jpeg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/6ab2bf47-3bc3-4eb4-a87d-a67f05a18635-logo-640-x-640.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\6ab2bf47-3bc3-4eb4-a87d-a67f05a18635-logo-640-x-640.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/banner-checkout.jpeg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\banner-checkout.jpeg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/bg_working.jpg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\bg_working.jpg
+Content Type: image/jpeg
+
+Uri: https://ticketmastersbr.site/ingressos/images/c1ade2d9-b2d1-484a-b163-0e5509e00144-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\c1ade2d9-b2d1-484a-b163-0e5509e00144-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/dashed.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\dashed.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ticketmastersbr.site/ingressos/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://ticketmastersbr.site/ingressos/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://ticketmastersbr.site/ingressos/images/fold_down.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\fold_down.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/fold_up.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\fold_up.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://ticketmastersbr.site/ingressos/images/header_drop_shadow.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\header_drop_shadow.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ico-delivery.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ico-delivery.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ico-delivery_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ico-delivery_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ico-pickup.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ico-pickup.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ico-pickup_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ico-pickup_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/line01.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\line01.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/line03.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\line03.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/line04.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\line04.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/line05.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\line05.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/line06.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\line06.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/load.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\load.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/no.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\no.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ok.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ok.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ok_access.4b6ba00699.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ok_access.4b6ba00699.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/ok_access.4b6ba00699_1.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ok_access.4b6ba00699_1.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/ot_persistent_cookie_icon.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ot_persistent_cookie_icon.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/pas.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pas.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/pen.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pen.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_1.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_1.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_2.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_2.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_3.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_3.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_4.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_4.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_5.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_5.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pin_6.gif
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pin_6.gif
+Content Type: image/gif
+
+Uri: https://ticketmastersbr.site/ingressos/images/pix.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pix.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/pix_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\pix_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/purchase_li.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\purchase_li.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/select.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\select.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ticketmaster-logo_white.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ticketmaster-logo_white.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/images/ticketmaster-logo_white_1.png
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\images\ticketmaster-logo_white_1.png
+Content Type: image/png
+
+Uri: https://ticketmastersbr.site/ingressos/index_1.html
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\index_1.html
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/ingressos/index_2.html
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\index_2.html
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/ingressos/jquery.mask.min.js.download
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\jquery.mask.min.js.download
+Content Type: application/octet-stream
+
+Uri: https://ticketmastersbr.site/ingressos/jquery.min.js.download
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\jquery.min.js.download
+Content Type: application/octet-stream
+
+Uri: https://ticketmastersbr.site/ingressos/js/jquery.mask.min.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\js\jquery.mask.min.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/ingressos/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/ingressos/js/notiflix-aio-2.6.0.min.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\js\notiflix-aio-2.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/ingressos/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\js\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/ingressos/notiflix-aio-2.6.0.min.js.download
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\notiflix-aio-2.6.0.min.js.download
+Content Type: application/octet-stream
+
+Uri: https://ticketmastersbr.site/ingressos/saved_resource.html
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\saved_resource.html
+Content Type: text/html
+
+Uri: https://ticketmastersbr.site/ingressos/toastr.min.js.download
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\toastr.min.js.download
+Content Type: application/octet-stream
+
+Uri: https://ticketmastersbr.site/ingressos/tr
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\ingressos\tr
+Content Type: 
+
+Uri: https://ticketmastersbr.site/js/core.min3f14.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\core.min3f14.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/elements-handlers.minab82.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\elements-handlers.minab82.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/fbevents.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\fbevents.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/frontend-modules.min4ecf.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\frontend-modules.min4ecf.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/frontend.min4ecf.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\frontend.min4ecf.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/frontend.minab82.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\frontend.minab82.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/hello-frontend.min41fe.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\hello-frontend.min41fe.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/hooks.min2757.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\hooks.min2757.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/i18n.minc33c.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\i18n.minc33c.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/jquery-migrate.min5589.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\jquery-migrate.min5589.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/jquery.minf43b.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\jquery.minf43b.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/jquery.smartmenus.minf269.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\jquery.smartmenus.minf269.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/latest.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\latest.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/pixel.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\pixel.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/regenerator-runtime.min6c85.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\regenerator-runtime.min6c85.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/waypoints.min05da.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\waypoints.min05da.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/webpack-pro.runtime.minab82.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\webpack-pro.runtime.minab82.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/webpack.runtime.min4ecf.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\webpack.runtime.min4ecf.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/wp-polyfill-inert.min0226.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\wp-polyfill-inert.min0226.js
+Content Type: application/javascript
+
+Uri: https://ticketmastersbr.site/js/wp-polyfill.min2c7c.js
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\js\wp-polyfill.min2c7c.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=1583896515512307&ev=AddToCart&noscript=1
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=936926961564264&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\ticketmastersbr.site\tr
+Content Type: text/plain
+
